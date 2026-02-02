@@ -5,7 +5,7 @@
 // //   hide LatLng;
 
 // // const String kGoogleApiKey =
-// //     "AIzaSyCr0Yqr4orUuYR3fdee6LMiEwPcBce33v8";
+// //     "GOOGLE_MAP_API";
 
 // // class MapScreen extends StatefulWidget {
 // //   const MapScreen({super.key});
@@ -151,7 +151,7 @@
 // import 'package:flutter_google_places_sdk/flutter_google_places_sdk.dart'
 //     hide LatLng;
 
-// const String kGoogleApiKey = "AIzaSyCr0Yqr4orUuYR3fdee6LMiEwPcBce33v8";
+// const String kGoogleApiKey = "GOOGLE_API_KEY";
 
 // class MapScreen extends StatefulWidget {
 //   const MapScreen({super.key});
